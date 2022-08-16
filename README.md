@@ -20,4 +20,4 @@ Please fork this repositpry and then isue Pull request for review.
 
 ## Copyright
 
-Git. Training.
+Git. Training. All right s reserved
